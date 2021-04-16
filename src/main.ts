@@ -12,3 +12,5 @@ createApp(App)
   .use(globalConfig.globalComponent)
   .use(globalConfig.globalProvider)
   .mount('#app');
+
+console.log('first - commit');
